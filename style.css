@@ -168,6 +168,9 @@ section{
     border-radius: 5rem;
     
 }
+.section__pic-continer {
+    background: url('./assets/profile-pic.png') center/cover no-repeat;
+}
 
 .section__pic-container{
     display: flex;
