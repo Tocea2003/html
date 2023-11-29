@@ -172,7 +172,7 @@ section {
 }
 
 .section__pic-container {
-    background: url('./assets/profile-pic.png') center/cover no-repeat;
+    background: url('./profile-pic.png') center/cover no-repeat;
     display: flex;
     height: 600px;
     width: 450px;
